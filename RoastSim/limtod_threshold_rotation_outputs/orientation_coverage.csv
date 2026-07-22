@@ -1,0 +1,5 @@
+scan_case,clean_case,median_orientation_coverage_deg,p10_orientation_coverage_deg,p90_orientation_coverage_deg,median_unique_5deg_angles,median_samples_per_lst_bin
+A_no_rotation_24h,"No rotation, 24 h",0.0,0.0,0.0,1.0,20.0
+C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",114.0,114.0,114.00000000000021,20.0,20.0
+E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",330.0,330.0,330.0,12.0,240.0
+G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",356.0,355.9999999999991,356.0,73.0,240.0

@@ -1,3 +1,5 @@
+examples/mm_example_copy.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -182,6 +184,7 @@ Desktop.ini
 
 # Data directories (customize as needed)
 test/data/
+examples/data/
 output/
 results/
 plots/
@@ -198,8 +201,19 @@ figures/
 
 # Claude Code
 CLAUDE.md
+.claude/
 
 # Configuration files that might contain secrets
 config.ini
 secrets.yaml
 .secrets
+# Local data files
+/data/
+
+# Local test files and notebooks
+/test/
+/tests/
+/test_notebooks/
+
+# Generated Andromeda simulation results
+/Andromeda_Results/

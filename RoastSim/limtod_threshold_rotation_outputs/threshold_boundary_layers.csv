@@ -1,0 +1,164 @@
+label,scan_case,clean_case,select_threshold,boundary_layer,n_pix,rmse,median_abs_residual,p95_abs_residual,median_unc
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,0,64,2234.6237014896537,1511.624025596031,4019.837459902066,89.37540554719675
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,1,64,1218.8236608039128,826.3362090504527,2170.269255777071,75.1646013993934
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,2,64,883.2421271607508,398.92218214359946,1647.8918676677658,69.25928251174196
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,3,52,922.6192942648609,638.65669699603,1511.4743630080511,71.2092975538707
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,4,36,1043.8881938426064,495.58582918599575,2216.7398896279756,72.67359550499741
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,5,20,583.4861739909327,295.018814887928,1249.6149522690237,87.31912515943938
+A_no_rotation_24h__threshold_0.1,A_no_rotation_24h,"No rotation, 24 h",0.1,6,4,340.0798911468255,321.55438902259027,445.62783083930753,98.70095037236135
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,0,64,2234.6237014896537,1511.624025596031,4019.837459902066,89.37540554719675
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,1,64,1218.8236608039128,826.3362090504527,2170.269255777071,75.1646013993934
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,2,64,883.2421271607508,398.92218214359946,1647.8918676677658,69.25928251174196
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,3,52,922.6192942648609,638.65669699603,1511.4743630080511,71.2092975538707
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,4,36,1043.8881938426064,495.58582918599575,2216.7398896279756,72.67359550499741
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,5,20,583.4861739909327,295.018814887928,1249.6149522690237,87.31912515943938
+A_no_rotation_24h__threshold_0.05,A_no_rotation_24h,"No rotation, 24 h",0.05,6,4,340.0798911468255,321.55438902259027,445.62783083930753,98.70095037236135
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,0,64,3053.16146042455,1855.1817850716773,6498.813051485729,97.10736340540383
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,1,64,2227.5491567593403,1511.8614290024248,4034.7283077387165,89.61504596630324
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,2,64,1215.8956407100447,805.1818994216617,2144.2516031976215,75.56324792375305
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,3,64,874.2756208949717,380.73256770333614,1609.2629334371052,69.51263655466555
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,4,52,914.1853178915213,645.2009935005128,1505.918408123102,71.56290186034323
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,5,36,1039.24347141483,494.4897002192355,2211.3792389603213,72.87570288386652
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,6,20,576.8443974183716,289.85988842423353,1247.8705510516618,87.47020940266142
+A_no_rotation_24h__threshold_0.03,A_no_rotation_24h,"No rotation, 24 h",0.03,7,4,345.9959155435383,328.7041927029801,450.09601766435924,98.71664870333956
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,0,64,3053.16146042455,1855.1817850716773,6498.813051485729,97.10736340540383
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,1,64,2227.5491567593403,1511.8614290024248,4034.7283077387165,89.61504596630324
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,2,64,1215.8956407100447,805.1818994216617,2144.2516031976215,75.56324792375305
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,3,64,874.2756208949717,380.73256770333614,1609.2629334371052,69.51263655466555
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,4,52,914.1853178915213,645.2009935005128,1505.918408123102,71.56290186034323
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,5,36,1039.24347141483,494.4897002192355,2211.3792389603213,72.87570288386652
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,6,20,576.8443974183716,289.85988842423353,1247.8705510516618,87.47020940266142
+A_no_rotation_24h__threshold_0.02,A_no_rotation_24h,"No rotation, 24 h",0.02,7,4,345.9959155435383,328.7041927029801,450.09601766435924,98.71664870333956
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,0,156,3761.2554623273427,2066.5325884336235,9043.909454374349,99.70585199883364
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,1,64,3054.6454639014773,1858.225368315129,6500.991830452097,97.14118556357606
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,2,64,2229.275343128623,1514.1881288782472,4040.9335127927784,89.6772213435323
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,3,64,1214.0683927000084,806.1920685707255,2143.729261926601,75.67517455569018
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,4,64,871.159507623957,379.88170381392547,1606.847068519833,69.62388920552638
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,5,52,910.5115186649883,647.4033395719778,1496.6349739976306,71.674403495083
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,6,36,1035.9190396743363,493.56771260364405,2207.514025685784,72.97395671992379
+A_no_rotation_24h__threshold_0.01,A_no_rotation_24h,"No rotation, 24 h",0.01,7,24,543.4594464501623,293.8928113958168,1159.8459162827735,87.78190470949434
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,0,140,2119.4568217614515,2037.9622952047835,2596.4752288948857,100.0
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,1,144,3956.5090806305802,2144.9490622684907,9392.849813727265,99.75595835905754
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,2,112,3414.905266168792,1860.0710852006919,8215.01947381426,98.48304256691279
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,3,64,2823.410901930878,1943.3594869563362,5419.660255617397,94.12959790033074
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,4,64,1700.4801070558574,1353.8427617792443,2885.332894278982,82.19186745123163
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,5,64,749.0276695235391,369.89918966683217,1505.8766628648043,72.00088744257363
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,6,60,858.3809457262571,397.5190971790613,1311.6446732396278,69.61741901306385
+A_no_rotation_24h__threshold_0.005,A_no_rotation_24h,"No rotation, 24 h",0.005,7,84,952.5731733050046,465.36004999067484,2085.6473883872072,72.97395671992382
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,0,64,1318.81476577545,654.680730424091,2888.766435874094,60.62003008865621
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,1,64,462.908420330665,295.769332269747,788.731705416873,42.44742394803938
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,2,64,416.8075944004335,266.9014955829492,898.8660082059828,36.166746322044844
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,3,52,299.90484834636175,170.65593244180798,691.683584126431,30.076634917673886
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,4,36,270.8744011248515,154.36355555476644,529.7799057789746,28.418275941466206
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,5,20,264.48893811046116,166.4895261317704,535.4209886596977,30.184426661897227
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.1,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.1,6,4,409.93813277071774,360.57578167337306,593.9709895933264,28.000135756432243
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,0,64,2255.027463727072,1502.327031399431,4356.613380138247,78.69802129026723
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,1,64,683.7636903339903,379.82090396573506,1441.0949637476187,48.35240527191442
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,2,64,412.21515336650776,291.7207104949755,798.0468484142344,40.43778144248307
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,3,60,302.0920863013691,179.70573652120174,531.8133569283476,32.55814691211614
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,4,44,322.1370783348354,209.79020158396872,687.4403696023234,30.231930550844694
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,5,28,248.91199015154547,149.51291091117992,509.0413626859096,30.15417557173693
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.05,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.05,6,12,326.83136058016686,218.94739795242572,563.4263566421226,28.83419955792307
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,0,64,2901.353391245776,1972.1825461318758,6108.718015799201,92.930451392813
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,1,64,1318.06013723248,645.4038288968225,2879.3927083765825,60.7235444819116
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,2,64,460.22985724502473,308.5938092446596,771.8627455947171,42.58469871040376
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,3,64,413.61323132989753,270.3580275124192,899.1304455810621,36.27466672638223
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,4,52,295.44885667991997,174.98278121201577,672.9790123077372,30.295067249987717
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,5,36,264.87740611304383,143.42308113321212,539.1764734651612,28.51278338207237
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,6,20,254.25400541317083,165.75949783395492,522.0832858826338,30.283134691357603
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.03,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.03,7,4,405.0446048876733,353.891230429369,588.746362265778,28.035008293678462
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,0,64,2901.353391245776,1972.1825461318758,6108.718015799201,92.930451392813
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,1,64,1318.06013723248,645.4038288968225,2879.3927083765825,60.7235444819116
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,2,64,460.22985724502473,308.5938092446596,771.8627455947171,42.58469871040376
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,3,64,413.61323132989753,270.3580275124192,899.1304455810621,36.27466672638223
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,4,52,295.44885667991997,174.98278121201577,672.9790123077372,30.295067249987717
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,5,36,264.87740611304383,143.42308113321212,539.1764734651612,28.51278338207237
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,6,20,254.25400541317083,165.75949783395492,522.0832858826338,30.283134691357603
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.02,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.02,7,4,405.0446048876733,353.891230429369,588.746362265778,28.035008293678462
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,0,172,3752.2885291916073,2004.6553542906572,8374.22172174554,99.46253661442061
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,1,110,3394.8803605713306,1998.9391548216495,6892.99220518906,96.86686543219173
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,2,64,1307.5160375214484,580.9516651110465,2882.9981740013195,54.2270201544137
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,3,64,459.2028235901548,310.56127618147366,759.9457171790654,42.610232643874696
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,4,64,412.6910766425343,268.48263267955804,886.4430756087868,34.317692655225684
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,5,51,290.9603368806622,175.82819325800733,668.3566070275846,30.343476769347568
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,6,36,263.7840077188595,140.67580545673638,537.0477100919854,28.557557777800987
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.01,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.01,7,23,290.42108310992654,195.86665128747336,526.8893832261602,29.030057368388952
+C_fast_rotation_24h_one_turn_per_hour__threshold_0.005,C_fast_rotation_24h_one_turn_per_hour,"Fast rotation, 24 h",0.005,7,768,2561.586891024787,1238.750781842692,5648.328639684072,97.43596737005461
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,0,64,1128.8246774716815,442.03965769717115,2653.5735877896536,21.737626055796703
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,1,64,503.69310482734454,315.6126664931903,814.7889802454947,13.721952597622312
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,2,64,461.35915424995585,258.58299129695024,1028.419776192875,11.448943247348383
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,3,52,368.79983133491015,246.70577520096708,776.3807090433272,9.851922963512095
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,4,36,354.0546787194415,206.90681988327503,786.6210375425337,9.683589738243665
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,5,20,569.5214734634701,445.1846340722079,909.4970003019308,10.741493739349686
+E_same_LST_12days_30deg_step_stacked__threshold_0.1,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.1,6,4,716.0777171460747,546.0751478448701,1053.1445919095559,10.279303626179082
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,0,64,1576.5584611884674,911.1084398287605,3294.939610117063,37.916380710783564
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,1,64,576.734258023671,398.0773568339447,1048.0129087606047,15.931904770101461
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,2,64,492.12509647903835,324.1977757371908,993.1465352072387,13.278652348707901
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,3,60,255.28361734822732,185.5072048520292,482.9978757770304,10.33780731516666
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,4,44,392.56344196720335,209.21032739441534,830.3981786334701,10.020924399814074
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,5,28,505.37170116290724,343.47365451893825,809.4302954981565,9.906851166914908
+E_same_LST_12days_30deg_step_stacked__threshold_0.05,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.05,6,12,524.6825927646075,300.5219427798519,975.7507837544175,10.519596108478668
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,0,64,2304.6866712138053,1384.6486524943925,5106.994641668042,62.03160294255635
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,1,64,1052.8883280332968,475.86036314282796,2344.1020822605974,22.051182149043562
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,2,64,474.95344092697303,327.78296756953114,871.1831648672446,13.95839808165189
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,3,64,447.0331961794258,213.29916253377996,938.7982769979742,11.614455396642377
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,4,52,348.503651366279,246.83630118479687,727.5122287982782,10.076704182801844
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,5,36,337.0990716768246,179.2631311842158,715.9979896948628,9.877604010176938
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,6,20,577.7968523203332,459.3787489832947,893.037047555605,11.22307354883813
+E_same_LST_12days_30deg_step_stacked__threshold_0.03,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.03,7,4,712.1696757910153,560.2270597633236,1037.1009082020507,10.57895258710738
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,0,64,2304.6866712138053,1384.6486524943925,5106.994641668042,62.03160294255635
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,1,64,1052.8883280332968,475.86036314282796,2344.1020822605974,22.051182149043562
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,2,64,474.95344092697303,327.78296756953114,871.1831648672446,13.95839808165189
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,3,64,447.0331961794258,213.29916253377996,938.7982769979742,11.614455396642377
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,4,52,348.503651366279,246.83630118479687,727.5122287982782,10.076704182801844
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,5,36,337.0990716768246,179.2631311842158,715.9979896948628,9.877604010176938
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,6,20,577.7968523203332,459.3787489832947,893.037047555605,11.22307354883813
+E_same_LST_12days_30deg_step_stacked__threshold_0.02,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.02,7,4,712.1696757910153,560.2270597633236,1037.1009082020507,10.57895258710738
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,0,184,3604.347850210622,2065.1595260812683,7602.7593364986105,93.38118293477595
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,1,100,2896.3191037099145,1734.9003402825374,6103.054777804896,74.21184553362983
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,2,64,1057.8134738092626,472.31285958733474,2477.054497746511,22.27693545543665
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,3,64,476.1012477251073,335.64742228967657,877.8623186122576,14.108525052694368
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,4,64,447.8232378213405,198.71750940543984,948.366630495087,11.771651952717725
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,5,52,352.5168763466863,211.46983737411608,745.569293493811,10.241069845947674
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,6,36,334.29200439191266,165.44181733036078,690.7924141744247,10.046152034651815
+E_same_LST_12days_30deg_step_stacked__threshold_0.01,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.01,7,24,604.8538473628339,449.3789082176181,1080.3212489579657,11.065905890099163
+E_same_LST_12days_30deg_step_stacked__threshold_0.005,E_same_LST_12days_30deg_step_stacked,"Same LST, 12 days, 30° step",0.005,7,768,2386.0034326394593,727.2472582852924,5179.960395629523,78.88285996445578
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,0,64,894.4693054756947,373.22934536680077,1915.2603262718394,20.98288004955726
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,1,64,396.1546164496917,286.29605363490737,672.2819405716604,12.950588800740997
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,2,64,326.23364865040895,160.6100468750094,651.4715250278612,10.645373452302806
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,3,52,214.55324448164123,94.95161320649902,422.3239622614457,8.560898651877583
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,4,36,213.93822566068025,138.3088102141637,386.84481951385385,8.052940414044295
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,5,20,200.4894939406498,118.93958957145219,359.861818960795,8.70284730846109
+G_same_LST_12days_fast_hourly_stacked__threshold_0.1,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.1,6,4,436.30370700512316,461.5720775216448,522.5215093290269,7.917458510634965
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,0,64,1343.3483274757373,941.9261513331865,2712.236781503827,35.80743304134772
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,1,64,516.1129165278385,345.6892769178676,993.8153162826269,15.02850693850619
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,2,64,309.8981672126469,227.36188994845634,561.6157881680725,12.22691142550834
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,3,60,248.39636495622403,120.37641334031821,605.5409205410356,9.585594588821152
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,4,44,235.09875139666102,157.15543282524482,471.4909299525472,8.631796275271569
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,5,28,200.12333032769055,109.44797826736976,434.91275992661156,8.469391925712333
+G_same_LST_12days_fast_hourly_stacked__threshold_0.05,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.05,6,12,306.82349367844995,214.22951602375247,500.7143280431112,8.279787337815097
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,0,64,2222.8649847865177,1577.7034018480686,4716.51931704764,59.065004601966805
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,1,64,863.1288497466833,422.419940057271,1707.6924422604136,21.105948993233277
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,2,64,390.68477342548135,293.0950169191715,656.4086621815823,13.07025524546389
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,3,64,304.42631081554686,166.02763515973857,603.8306882638591,10.718720497127661
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,4,52,216.00575392462943,105.42401999153367,439.0352616747599,8.695006920497127
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,5,36,205.34558058414058,134.91336399719523,376.5619050058099,8.104739941460469
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,6,20,192.3576020260457,107.65192217510219,335.926145529341,8.736428085330271
+G_same_LST_12days_fast_hourly_stacked__threshold_0.03,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.03,7,4,427.65964119856744,445.365162136402,527.4538348177146,7.9274065168514785
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,0,64,2222.8649847865177,1577.7034018480686,4716.51931704764,59.065004601966805
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,1,64,863.1288497466833,422.419940057271,1707.6924422604136,21.105948993233277
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,2,64,390.68477342548135,293.0950169191715,656.4086621815823,13.07025524546389
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,3,64,304.42631081554686,166.02763515973857,603.8306882638591,10.718720497127661
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,4,52,216.00575392462943,105.42401999153367,439.0352616747599,8.695006920497127
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,5,36,205.34558058414058,134.91336399719523,376.5619050058099,8.104739941460469
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,6,20,192.3576020260457,107.65192217510219,335.926145529341,8.736428085330271
+G_same_LST_12days_fast_hourly_stacked__threshold_0.02,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.02,7,4,427.65964119856744,445.365162136402,527.4538348177146,7.9274065168514785
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,0,147,3427.468372525298,1907.1890814709973,7533.30274466495,99.44820848609429
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,1,144,3258.7937290010204,1734.003134610401,7005.432473628138,88.94324201835909
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,2,112,2533.827342010116,1277.3244347433256,6251.443621805236,46.84732192411056
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,3,64,460.370552526766,296.43360324322634,898.7465792479118,13.407420080799401
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,4,64,298.25571555938205,168.49978457124098,556.8350719116701,11.773245314915936
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,5,52,213.13868980812714,98.91627349800012,457.9488639015332,8.755884637655258
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,6,42,218.50435839893368,144.6197926261267,308.2402368884865,8.369781747789514
+G_same_LST_12days_fast_hourly_stacked__threshold_0.01,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.01,7,29,258.80652435236516,115.85783676698202,477.983794081433,8.48682175583654
+G_same_LST_12days_fast_hourly_stacked__threshold_0.005,G_same_LST_12days_fast_hourly_stacked,"Same LST, 12 days, fast hourly",0.005,7,768,2473.3346223062254,993.7422276245675,5257.677745758743,76.45765529218815
